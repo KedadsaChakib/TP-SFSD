@@ -1,0 +1,6 @@
+1 : 1RM-Blida, 
+2 : 2RM-Oran, 
+3 : 3RM-Bechar, 
+4 : 4RM-Ouargla, 
+5 : 5RM-Constantine, 
+6 : 6RM-Tamanrasset,

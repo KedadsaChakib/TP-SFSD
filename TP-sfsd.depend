@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1641248442 source:d:\mes programmes de c\tp-sfsd\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1641222173 d:\mes programmes de c\tp-sfsd\fonction.h
+
+1641244201 source:d:\mes programmes de c\tp-sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+
+1642510554 source:c:\tp\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1642448393 c:\tp\fonction.h
+
+1642436802 source:c:\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+
+1643455432 source:d:\mes programmes de c\dernier version 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
+1643053881 d:\mes programmes de c\dernier version 3\fonction.h
+
+1643455372 source:d:\mes programmes de c\dernier version 3\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1643478709 source:c:\tp4\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
+1643473479 c:\tp4\fonction.h
+
+1643478797 source:c:\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
+1643490986 source:d:\mes programmes de c\fasdfasd\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
+1643490068 d:\mes programmes de c\fasdfasd\fonction.h
+
+1643490158 source:d:\mes programmes de c\fasdfasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
+1643493734 source:c:\tp5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
+1643492182 c:\tp5\fonction.h
+
+1643494802 source:c:\tp5\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+

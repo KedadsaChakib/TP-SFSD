@@ -1,0 +1,8 @@
+1 : Armee de terre,
+2 : Armee de l'air,
+3 : Marine nationale, 
+4 : Defense aerienne du territoire, 
+5 : Gendarmerie nationale, 
+6 : Garde republicaine, 
+7 : Departement du renseignement et de la securite, 
+8 : Sante militaire,
